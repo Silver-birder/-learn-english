@@ -18,7 +18,7 @@ Android 10より、開発者はBiometricAPIをあなたのデバイス認証の�
 理解するのに役立つ新しい保持メトリックなどが含まれます。
 
 TensorFlow teamは、AIを有効にしているビジネスをサポートするために努力し続けています。
-そして、TensorFlow Enterpriseを紹介し続けています。
+そして、TensorFlow Enterpriseを導入し続けています。
 TensorFlow Enterpriseは、Enterpriceグレードのサポート、クラウドスケールのパフォーマンス、
 マネージドサービスが組み込まれている新しい製品です。
 
