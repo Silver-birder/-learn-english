@@ -1,5 +1,5 @@
 # URL
-https://www.youtube.com/watch?v=-wrXKvnPfZg&t=50s
+https://www.youtube.com/watch?v=-wrXKvnPfZg
 
 # Contents
 ## Japanese
@@ -36,3 +36,20 @@ JPEGfallbackについてのpicture要素上にある以前の動画をチェッ�
 
 WebAssemblyを使用して、WebPコンテンツが提供されている場合にのみ、
 ブラウザーにデコーダーを追加することもできます。
+
+WEBエコシステムはWebPにも拡張されました。不可欠なイメージツールチェインのための
+新しいオプション。最近では、私達のチームはWebPShopとオープンソースPhotoshopの
+WebP画像をimport/exportプラグインを開始しました。これは、AndroidStudioやSquooshのような
+Googleプロパティや、オープンソースツールであるGimpやImageMagickの既存のサポート
+に加えています。WebPは、これまでになく簡単にサイトで使用できるようになりました。
+より多くの開発者がWebPを以前に比べて使うようになるため、あなたが孤立しません。
+ShoppingやYouTubeなどのGoogleブランドでの成功事例以外に、Shopify,Vox,Pinterestなどの
+企業は、WebPがサイトの品質をどのように改善したかを詳しく説明しています。
+
+WebPは次何しますか？
+HDRディスプレイを可能にしたり、幅広いカラーを表現でき、さらに25%サイズダウンを
+行うことができる新しいアルゴリズムを私達は将来検討します。
+もちろん、WebPがWebや、アニメーションやロスネス、割り込み性のための
+素晴らしい圧縮フォーマットである機能を維持し続けます。
+つまり、画像が完全にダウンロードされていなくても、なにか表示し、また専用の
+ハードウェアは不要になります。もちろん、低いCPUとメモリーフットプリントで。
