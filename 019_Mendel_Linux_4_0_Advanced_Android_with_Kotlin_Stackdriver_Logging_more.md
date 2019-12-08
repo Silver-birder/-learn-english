@@ -20,4 +20,9 @@ CloudCodeプラグインによって、現在Stackdriver Logに直接VSCodeか�
 カスタマイズログ、Kubernetes特有のフィルタリングです。
 
 GoogleCloudArmorの新しいWebApplicationFirewall機能をお知らせします。
-現在betaで使用可能です。
+現在betaで使用可能です。CloudArmorは、セキュリティポリシの作成や
+存在しているポリシーを地理ベースのアクセス制御、事前設定したWebApplicationFirewallのルール
+、カスタマイズルールを使用したカスタマイズしたL7フィルタリングポリシーを適用できます。
+
+GoogleCloudのより多くのアナウンス、アップデートがあある、GoogleCloudの話は、
+この投稿をチェックをして下さい。GoogleCloudNextUKのいくつかのハイライトがあります。
